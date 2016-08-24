@@ -1,0 +1,39 @@
+help: |
+  Bot helps you send formatted messages and create scheduled messages in your channel
+
+  /channels - manage channels
+  /addchannel - add a new channel
+  /deletechannel - delete added channel
+  /setadmins - manage admins
+
+  /send - send a new message
+  /postpone - create scheduled message
+
+  /feedback - contact the devs of this bot
+
+  /rate - rate bot
+  /help - a list of commands
+
+  /cancel - cancel the current operation
+welcome: |
+  <b>Hello!</b>
+
+  <b>Controller Bot</b> — excellent bot for channel owners that helps you send formatted messages and create scheduled messages in your channel.
+
+  <b>Formatted Messages.</b> You can use either markdown-style or HTML-style formatting in messages and send them to your channel. Read more about formatting options <a href="https://core.telegram.org/bots/api#formatting-options">here</a>.
+
+  <b>Scheduled Messages.</b> Create an unlimited number of scheduled messages in your channel.
+
+  <b>URL Buttons.</b> Add to any message useful buttons that can open links.
+
+  <b>Admins.</b> You can add admins to help you send new messages and manage schedule messages in your channel.
+
+  Bot can send messages silently and disable link previews for links in messages, as well as supports all message types (text, document, sticker, audio, video, voice note, location and other).
+
+  <b>How to use?</b>
+  Send /addchannel and follow the instructions to add a new channel.
+
+  Type /feedback to report an issue or report an issue or contact the developers of this bot.
+
+  /rate — rate bot
+  /help — a list of commands

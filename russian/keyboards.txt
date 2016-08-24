@@ -1,0 +1,85 @@
+utils.bot.setKeyboard('cancel_ru', [['1. Отмена']])
+
+
+utils.bot.setKeyboard('menu_ru', [
+  ['1. Каналы', '2. Автопостинг']
+  ['3. Отправить пост', '4. Отложенные посты']
+  ['5. Настройки', '6. Написать нам']
+  ['7. Оценить бот', '8. Статистика каналов']
+])
+
+
+utils.bot.setKeyboard('settings_ru', [
+#  ['1. Настройки постинга']
+  ['1. Изменить язык']
+  ['2. Меню']
+])
+utils.bot.setKeyboard('language_ru', [
+  ['1. Русский', '2. English']
+])
+
+# Channels
+utils.bot.setKeyboard('channels_ru', [
+  ['1. Добавить канал', '2. Удалить канал']
+  ['3. Управление администраторами']
+#  ['3. Настройки каналов']
+  ['4. Меню']
+])
+utils.bot.setKeyboard('channel_control_ru', [
+  ['1. Изменить описание']
+  ['2. Меню']
+])
+utils.bot.setKeyboard('channel_description_ru', [
+  ['1. Удалить', '2. Предпросмотр']
+  ['3. Сохранить']
+  ['4. Назад']
+])
+
+utils.bot.setKeyboard('channel_admins_type_ru', [
+  ['1. Добавить', '2. Удалить']
+  ['3. Меню']
+])
+
+utils.bot.setKeyboard('channel_start_ru', [
+  ['1. Предложить пост в канал']
+  ['2. Написать администратору канала']
+  ['3. Выйти в меню']
+])
+utils.bot.setKeyboard('channel_start_is_anonym_ru', [
+  ['1. Анонимно', '2. Не анонимно']
+  ['3. Назад']
+])
+
+
+utils.bot.setKeyboard('channel_check_ru', [
+  ['1. Проверить']
+])
+
+# Send post
+utils.bot.setKeyboard('send_options_ru', [
+  ['1. Очистить', '2. Предпросмотр']
+  ['3. Настройки', '4. Разместить']
+  ['5. Отменить пост']
+])
+utils.bot.setKeyboard('send_confirm_ru', [
+  ['1. Да', '2. Нет']
+])
+
+
+utils.bot.setKeyboard('postpone_type_ru', [
+  ['1. Создать пост']
+  ['2. Управление постами']
+])
+utils.bot.setKeyboard('postpone_gtm_confirm_ru', [
+  ['1. Верно', '2. Не верно']
+])
+utils.bot.setKeyboard('postpone_send_options_ru', [
+  ['1. Очистить', '2. Предпросмотр']
+  ['3. Настройки', '4. Сохранить']
+  ['5. Отменить пост']
+])
+utils.bot.setKeyboard('postpone_select_date_ru', [
+  ['1. Сегодня', '2. Завтра']
+  ['3. Другая дата']
+  ['4. Назад']
+])

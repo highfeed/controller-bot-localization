@@ -5,7 +5,7 @@ utils.bot.setKeyboard('menu_en', [
   ['1. Channels', '2. Auto-Posting']
   ['3. Send', '4. Scheduled']
   ['5. Settings', '6. Feedback']
-  ['7. Rate Bot', '8. Channels Statistics']
+  ['7. Rate Bot', '8. Statistics']
 ])
 
 utils.bot.setKeyboard('settings_en', [
@@ -14,10 +14,10 @@ utils.bot.setKeyboard('settings_en', [
   ['2. Main Menu']
 ])
 utils.bot.setKeyboard('language_ru', [
-  ['1. Русский', '2. English']
+  ['1. Р СѓСЃСЃРєРёР№', '2. English']
 ])
 utils.bot.setKeyboard('language_en', [
-  ['1. Русский', '2. English']
+  ['1. Р СѓСЃСЃРєРёР№', '2. English']
 ])
 
 # Channels

@@ -23,7 +23,7 @@ utils.bot.setKeyboard('language_en', [
 # Channels
 utils.bot.setKeyboard('channels_en', [
   ['1. Adicionar', '2. Remover']
-  ['3. Management de Admins']
+  ['3. Funções Administrativas']
 #  ['3. Opções']
   ['4. Menu Principal']
 ])

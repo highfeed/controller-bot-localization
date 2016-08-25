@@ -91,10 +91,9 @@
     "send_inline_options_parse_mode_markdown": "Formatting Style: Markdown",
     "send_inline_options_parse_mode_html": "Formatting Style: HTML",
     "settings_save": "Your changes have been saved 👌",
-    "rate_bot": "Give us 5 stars on StoreBot if you like our bot:\n\ntelegram.me/storebot?start=ControllerBot",
     "channels_select_for_admins": "Admins can send new messages and manage schedule messages.\n\nEscolha a channel to add or remove admin.",
     "channels_admins_select_type": "What do you want to do?",
-    "channels_admins_link": "Send this link to the user you want to appoint as an admin of your channel: telegram.me/%s?start=joinadmin_%s",
+    "channels_admins_link": "Send this link to the user you want to appoint as an admin of @%s: telegram.me/%s?start=joinadmin_%s",
     "channels_you_creator_this_bot": "You are the creator of the channel and you already have full power here :)",
     "channels_not_found_when_adding_admin": "An error occurred: Link is invalid. ",
     "channels_admin_ok": "You are admin of @%s now.\n\nSend /start to go to main menu.",
@@ -103,5 +102,6 @@
     "channels_owner_deleted_you": "The creator of @%s removed you from admins of the channel.",
     "channels_admin_deleted": "Success! User removed from admins of the channel. You can remove another one or type /cancel to go to main menu.",
     "channels_admins_not_found": "You have no admins in this channel yet.",
-    "channels_stat_bot": "@ChannelsStatBot — useful bot for channel owners that helps you track the number of members in your channel.\n\nConnect your channel in *two steps*."
+    "channels_stat_bot": "@ChannelsStatBot — useful bot for channel owners that helps you track the number of members in your channel.\n\nConnect your channel in *two steps*.",
+    "channels_user_added_to_admin_list": "%s has been appointed as an admin of @%s."
 }

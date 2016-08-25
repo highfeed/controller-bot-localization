@@ -2,86 +2,86 @@ utils.bot.setKeyboard('cancel_en', [['1. Cancel']])
 
 
 utils.bot.setKeyboard('menu_en', [
-  ['1. Channels', '2. Auto-Posting']
-  ['3. Send', '4. Scheduled']
-  ['5. Settings', '6. Feedback']
-  ['7. Rate Bot', '8. Channels Statistics']
+  ['1. Canais', '2. Auto-Envio']
+  ['3. Enviar', '4. Agendados']
+  ['5. Configurações', '6. Feedback']
+  ['7. Avaliar Bot', '8. Estatísticas Canais']
 ])
 
 utils.bot.setKeyboard('settings_en', [
-#  ['1. Options of Posting']
-  ['1. Change Language']
-  ['2. Main Menu']
+#  ['1. Opções de Envio']
+  ['1. Escolher Idioma']
+  ['2. Menu Principal']
 ])
 utils.bot.setKeyboard('language_ru', [
-  ['1. �������', '2. English']
+  ['1. Ðóññêèé', '2. English']
 ])
 utils.bot.setKeyboard('language_en', [
-  ['1. �������', '2. English']
+  ['1. Ðóññêèé', '2. English']
 ])
 
 # Channels
 utils.bot.setKeyboard('channels_en', [
-  ['1. Add', '2. Remove']
-  ['3. Management of Admins']
-#  ['3. Options']
-  ['4. Main Menu']
+  ['1. Adicionar', '2. Remover']
+  ['3. Management de Admins']
+#  ['3. Opções']
+  ['4. Menu Principal']
 ])
 utils.bot.setKeyboard('channel_control_en', [
-  ['1. Change Description']
-  ['2. Main Menu']
+  ['1. Alterar Descrição']
+  ['2. Menu Principal']
 ])
 utils.bot.setKeyboard('channel_description_en', [
-  ['1. Delete', '2. Preview']
-  ['3. Save']
-  ['4. Back']
+  ['1. Excluir', '2. Visualizar']
+  ['3. Salvar']
+  ['4. Voltar']
 ])
 
 utils.bot.setKeyboard('channel_admins_type_en', [
-  ['1. Add', '2. Remove']
-  ['3. Main Menu']
+  ['1. Adicionar', '2. Remover']
+  ['3. Menu Principal']
 ])
 
 utils.bot.setKeyboard('channel_start_en', [
-  ['1. Suggest Message to Channel']
-  ['2. Send Message to Admin']
-  ['3. Main Menu']
+  ['1. Sugerir Mensagem ao canal']
+  ['2. Enviar Mensagem para Admin']
+  ['3. Menu Principal']
 ])
 utils.bot.setKeyboard('channel_start_is_anonym_en', [
-  ['1. Send Anonymously', '2. Send On My Behalf']
-  ['3. Back']
+  ['1. Enviar Anonimamente', '2. Enviar em meu Nome']
+  ['3. Voltar']
 ])
 
 
 utils.bot.setKeyboard('channel_check_en', [
-  ['1. Check']
+  ['1. Verificar']
 ])
 
 # Send post
 utils.bot.setKeyboard('send_options_en', [
-  ['1. Delete All', '2. Preview']
-  ['3. Options', '4. Send']
-  ['5. Cancel']
+  ['1. Excluir Todos', '2. Visualizar']
+  ['3. Opções', '4. Enviar']
+  ['5. Cancelar']
 ])
 utils.bot.setKeyboard('send_confirm_en', [
-  ['1. Yes', '2. No']
+  ['1. Sim', '2. Não']
 ])
 
 
 utils.bot.setKeyboard('postpone_type_en', [
-  ['1. Create Scheduled Message']
-  ['2. Management']
+  ['1. Agendar Mensagens']
+  ['2. Painel de Controle']
 ])
 utils.bot.setKeyboard('postpone_gtm_confirm_en', [
-  ['1. Right', '2. Not Right']
+  ['1. Está Correto', '2. Não está Correto']
 ])
 utils.bot.setKeyboard('postpone_send_options_en', [
-  ['1. Delete All', '2. Preview']
-  ['3. Options', '4. Enqueue']
-  ['5. Cancel']
+  ['1. Excluir Todos', '2. Visualizar']
+  ['3. Opções', '4. Enqueue']
+  ['5. Cancelar']
 ])
 utils.bot.setKeyboard('postpone_select_date_en', [
-  ['1. Today', '2. Tomorrow']
-  ['3. Other Date']
-  ['4. Back']
+  ['1. Hoje', '2. Amanhã']
+  ['3. Outra Data']
+  ['4. Voltar']
 ])

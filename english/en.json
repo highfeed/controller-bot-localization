@@ -6,7 +6,7 @@
     "autoposting": "This feature is currently in development. You can send us your suggestions via /feedback",
     "change_language": "Please choose your language:",
     "channels_add_or_delete": "What do you want to do?",
-    "channels_write_username": "In order to add a channel you should follow these two steps:\n\n1. Add @ConrollerBot to admins of your channel.\n2. Then send me @username of your channel.\n\nType /cancel to cancel the operation.",
+    "channels_write_username": "In order to add a channel you should follow these two steps:\n\n1. Add @ControllerBot to admins of your channel.\n2. Then send me @username of your channel.\n\nType /cancel to cancel the operation.",
     "cancel": "The operation has been cancelled.\nAnything else I can do for you?\n\nSend /help for a list of commands.",
     "cancel_no": "No active command to cancel. I wasn't doing anything anyway. Zzzzz...",
     "channels_incorrect_username": "This username is invalid.",

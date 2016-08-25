@@ -12,7 +12,7 @@
     "channels_incorrect_username": "Este @username não é valido.",
     "channels_already_created": "Este canal já foi adicionado. Por favor, tente novamente.",
     "channels_checking_add_bot": "Primeiro, Eu preciso verificar whatever you have added me to admins of a channel. \n\nNote: Only the creator can add a channel here.",
-    "channels_error_add": "Ocorreu um erro: Falha ao adicionar o canal. \n\n*Possible error reasons:*\n1. You didn't add @ControllerBot to admins of a channel.\n2. You aren't the creator of a channel.\n\nPlease check everything twice and try again.\nType /feedback to let us know if for some reason it doesn't change anything or /cancel to cancel the operation.",
+    "channels_error_add": "Ocorreu um erro: Falha ao adicionar o canal. \n\n*Principais motivos:*\n1. Você não adicionou @ControllerBot como administrador do canal.\n2. Você não é o criador do Canal.\n\nPor favor, verifique os possiveis erros e tente novamente.\nDigite /feedback para let us know if for some reason it doesn't change anything ou /cancel para cancelar esta operação.",
     "channels_add": "Successo! O canal foi adicionado.\n\nUse /send para enviar uma messagem para o seu canal.",
     "channels_select_for_delete": "Escolha um canal para excluir.\nDigite /cancel para cancelar esta operação.",
     "channels_not_found": "Você ainda não tem canais adicionados.",

@@ -93,7 +93,7 @@
     "settings_save": "Your changes have been saved 👌",
     "channels_select_for_admins": "Admins can send new messages and manage schedule messages.\n\nChoose a channel to add or remove admin.",
     "channels_admins_select_type": "What do you want to do?",
-    "channels_admins_link": "Send this link to the user you want to appoint as an admin of your channel: telegram.me/%s?start=joinadmin_%s",
+    "channels_admins_link": "Send this link to the user you want to appoint as an admin of @%s: telegram.me/%s?start=joinadmin_%s",
     "channels_you_creator_this_bot": "You are the creator of the channel and you already have full power here :)",
     "channels_not_found_when_adding_admin": "An error occurred: Link is invalid.",
     "channels_admin_ok": "You are admin of @%s now.\n\nSend /start to go to main menu.",

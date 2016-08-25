@@ -48,7 +48,7 @@ utils.bot.setKeyboard('channel_start_en', [
   ['3. Menu Principal']
 ])
 utils.bot.setKeyboard('channel_start_is_anonym_en', [
-  ['1. Enviar Anonimamente', '2. Enviar em meu Nome']
+  ['1. Enviar Anonimamente', '2. Enviar citando seu Nome']
   ['3. Voltar']
 ])
 

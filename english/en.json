@@ -91,6 +91,7 @@
     "send_inline_options_parse_mode_markdown": "Formatting Style: Markdown",
     "send_inline_options_parse_mode_html": "Formatting Style: HTML",
     "settings_save": "Your changes have been saved 👌",
+    "rate_bot": "Give us 5 stars on StoreBot if you like our bot:\n\ntelegram.me/storebot?start=ControllerBot",
     "channels_select_for_admins": "Admins can send new messages and manage schedule messages.\n\nChoose a channel to add or remove admin.",
     "channels_admins_select_type": "What do you want to do?",
     "channels_admins_link": "Send this link to the user you want to appoint as an admin of @%s: telegram.me/%s?start=joinadmin_%s",

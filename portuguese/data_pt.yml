@@ -1,5 +1,5 @@
 help: |
-  Bot helps you send formatted messages and create scheduled messages in your channel
+  Bot que ajudar no agendamento de publicações e no envio de mensagens formatadas para canais
 
   /channels - gerenciador de canais
   /addchannel - adicionar um novo canal
@@ -20,15 +20,15 @@ welcome: |
 
   <b>Controller Bot</b> — é um excelente bot para ajudar proprietários de canais, na tarefa de agendar publicações e enviar mensagens formatadas para os seus canais.
 
-  <b>Formatted Messages.</b> You can use either markdown-style or HTML-style formatting in messages and send them to your channel. Read more about formatting options <a href="https://core.telegram.org/bots/api#formatting-options">here</a>.
+  <b>Formatted Messages.</b> Você pode usar estilo de formatação Markdown ou HTML nas mensagens e enviá-las para o seu canal. Saiba mais sobre opções de formatação <a href="https://core.telegram.org/bots/api#formatting-options">aqui</a>.
 
-  <b>Scheduled Messages.</b> Cria um número ilimitado de mensagens agendadas para o seu canal.
+  <b>Scheduled Messages.</b> Agende um número ilimitado de mensagens para o seu canal.
 
-  <b>URL Buttons.</b> Add to any message useful buttons that can open links.
+  <b>URL Buttons.</b> Adicione qualquer tipo de mensagem útil em botões para abrir como link.
 
-  <b>Admins.</b> You can add admins to help you send new messages and manage schedule messages in your channel.
+  <b>Admins.</b> Adicione administradores que ajudarão você a gerenciar, agendar e enviar novas mensagens para seu canal.
 
-  Bot can send messages silently and disable link previews for links in messages, as well as supports all message types (text, document, sticker, audio, video, voice note, location and other).
+  O Bot pode enviar mensagens de forma silenciosa e desativar pré-visualização de links para links em mensagens, e suportar todos os tipos de mensagens (texto, documentos, sticker, áudio, vídeo, notas de voz, localização e outros).
 
   <b>Como utilizar o bot?</b>
   Envie /addchannel e siga as instruções para adicionar um novo canal.

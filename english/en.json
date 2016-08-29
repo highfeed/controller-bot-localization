@@ -38,7 +38,7 @@
     "send_confirm_post": "Are you sure you want to send these messages to @%s?",
     "send_post_relay": "The operation has been cancelled.\nAnything else I can do for you?",
     "send_remove_post": "Done! The message was deleted.",
-    "send_inline": "OK. Send me a list of URL buttons for the message. Please use this format:\n\n```Label text - url1\nAnother label text - url2```\n\nFor example:\n```Go to my website - https://example.com/```",
+    "send_inline": "OK. Send me a list of URL buttons for the message. Please use this format:\n```\nLabel text - url1\nAnother label text - url2```\n\nFor example:\n```\nGo to my website - https://example.com/```",
     "postpone_select_channels": "Choose a channel to manage schedule messages.\n\nType /cancel to go to main menu.",
     "postpone_set_timezone_to_channel": "Send me the name of your city, so I'll be able to determine your timezone.\n\nSend /cancel to go to main menu.",
     "postpone_channels_not_found": "You have no added channels yet.\nSend /addchannel to add a new channel.",

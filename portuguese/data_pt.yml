@@ -1,5 +1,5 @@
 help: |
-  Bot que ajudar no agendamento de publicações e no envio de mensagens formatadas para canais
+  Bot desenvolvido para ajudar no agendamento e envio de mensagens formatadas para os seus canais
 
   /channels - gerenciador de canais
   /addchannel - adicionar um novo canal
@@ -20,11 +20,11 @@ welcome: |
 
   <b>Controller Bot</b> — é um excelente bot para ajudar proprietários de canais, na tarefa de agendar publicações e enviar mensagens formatadas para os seus canais.
 
-  <b>Formatted Messages.</b> Você pode usar estilo de formatação Markdown ou HTML nas mensagens e enviá-las para o seu canal. Saiba mais sobre opções de formatação <a href="https://core.telegram.org/bots/api#formatting-options">aqui</a>.
+  <b>Formatar Mensagens.</b> Você pode usar estilo de formatação Markdown ou HTML nas mensagens e enviá-las para o seu canal. Saiba mais sobre opções de formatação <a href="https://core.telegram.org/bots/api#formatting-options">aqui</a>.
 
-  <b>Scheduled Messages.</b> Agende um número ilimitado de mensagens para o seu canal.
+  <b>Agendar Mensagens.</b> Agende um número ilimitado de mensagens para o seu canal.
 
-  <b>URL Buttons.</b> Adicione qualquer tipo de mensagem útil em botões para abrir como link.
+  <b>Botões de Links.</b> Adicione qualquer tipo de mensagem útil em botões para abrir um link.
 
   <b>Admins.</b> Adicione administradores que ajudarão você a gerenciar, agendar e enviar novas mensagens para seu canal.
 

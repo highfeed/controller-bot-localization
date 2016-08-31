@@ -45,7 +45,7 @@
     "postpone_confirm_posts": "Are you sure you want to continue?",
     "postpone_no_posts_for_sending": "You have no any messages yet.",
     "postpone_set_date": "Choose publish date for the message.",
-    "postpone_save": "The message has been enqueued.\n\nIt will be sent to %s on </b>%s</b> (%s). \n\nGive us 5 stars on the Store Bot if you like our bot: telegram.me/storebot?start=ControllerBot\nYou can also connect @ChannelsStatBot that helps you track the number of members in your channel.",
+    "postpone_save": "The message has been enqueued.\n\nIt will be sent to %s on <b>%s</b> (%s). \n\nGive us 5 stars on the Store Bot if you like our bot: telegram.me/storebot?start=ControllerBot\nYou can also connect @ChannelsStatBot that helps you track the number of members in your channel.",
     "postpone_select_month": "Please choose the month.",
     "postpone_select_day": "OK, you selected %s. Now choose the day.",
     "postpone_incorrect_date": "Incorrect date. Please try to choose another.",

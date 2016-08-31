@@ -20,7 +20,7 @@
     "send_select_channels_for_send": "Choose a channel to send a new message.\n\nType /cancel to cancel the operation.",
     "send_select_mode": "Please choose formatting style you want to use\n\nYou can read more about formatting options [here](https://core.telegram.org/bots/api#formatting-options).\n\nType /cancel to go to main menu.",
     "send_channel_not_found": " The channel not found.",
-    "send_post": "OK, you selected @%s.\n\nYou can read more about formatting options <a href=\"https://core.telegram.org/bots/api#formatting-options\">here</a>.",
+    "send_post": "OK, you selected %s.\n\nYou can read more about formatting options <a href=\"https://core.telegram.org/bots/api#formatting-options\">here</a>.",
     "send_post_keyboard": "Send me one or multiple messages you want to post. It can be anything — a text, photo, video, even a sticker.\n\nType /cancel to cancel the operation.",
     "send_post_error": "An error occurred: Errors found in formatting text. Please check everything twice and try again.",
     "send_post_text_error": "Errors in formatting text:\n\n```\n%s\n```\nPlease check everything twice and try again.",

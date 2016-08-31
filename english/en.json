@@ -103,7 +103,7 @@
     "channels_stat_bot": "@ChannelsStatBot — useful bot for channel owners that helps you track the number of members in your channel.\n\nConnect your channel in *two steps*.",
     "channels_user_added_to_admin_list": "%s has been appointed as an admin of %s.",
     "channels_add_new": "To add a channel you should follow these two steps:\n\n1. Add @ControllerBot to admins of your channel.\n2. Then forward to me any message from your channel (you can also send me its @username or unique identifier).\n\nType /cancel to cancel the operation.",
-    "channels_adding_title_already_busy": "You can't add two channels with the same name at the moment. Type /feedback to tell us what's happened or /cancel to cancel the operation.",
+    "channels_title_already_busy": "You can't add two channels with the same name at the moment. Type /feedback to tell us what's happened or /cancel to cancel the operation.",
     "channels_you_not_creator": "Only the creator has the right to add a channel. By the way, don't forget that the сreator of а channel can add admins via /setadmins.\n\nType /cancel to cancel the operation.",
     "channels_error_data_when_add": "Invalid @username or unique identifier. Please check everything twice and try again.\n\nType /feedback to let us know if for some reason it doesn't change anything or /cancel to cancel the operation.",
     "send_post_yet": "Use /send_%s to send another one message to this channel.",

@@ -5,7 +5,7 @@ utils.bot.setKeyboard('menu_en', [
   ['1. Canais', '2. Auto-Envio']
   ['3. Enviar', '4. Agendar']
   ['5. Configurações', '6. Feedback']
-  ['7. Avaliar Bot', '8. Estatísticas Canais']
+  ['7. Avaliar Bot', '8. Estatísticas']
 ])
 
 utils.bot.setKeyboard('settings_en', [

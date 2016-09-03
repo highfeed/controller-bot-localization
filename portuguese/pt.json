@@ -9,7 +9,7 @@
     "cancel": "Operação cancelada.\nMais alguma coisa em que possa ajudar?\n\nEnvie /help para visualizar a lista de comandos.",
     "cancel_no": "Nenhum comando ativo para cancelar. De qualquer maneira, eu não estava fazendo nada mesmo. Zzzzz...",
     "channels_already_created": "Este canal já foi adicionado. Por favor, tente outro.",
-    "channels_error_add": "O bot @ControllerBot não foi adicionado como administrador do canal. Por favor, verifique tudo e tente novamente.\n\nType /feedback to let us know if for some reason it doesn't change anything or /cancel to cancel the operation.",
+    "channels_error_add": "O bot @ControllerBot não foi adicionado como administrador do canal. Por favor, verifique tudo e tente novamente.\n\nDigite /feedback para nos informar, se por algum motivo, o erro continuar ocorrendo ou /cancel para cancelar esta operação.",
     "channels_add": "Sucesso! O Canal foi adicionado.\n\n/send - enviar mensagem\n/postpone - agendar mensagem\n/setadmins - gerenciar administradores",
     "channels_select_for_delete": "Escolha um canal para excluir.\nDigite /cancel para cancelar esta operação.",
     "channels_not_found": "Você ainda não tem canais adicionados.",
@@ -105,7 +105,7 @@
     "channels_add_new": "Para adicionar um canal você precisar seguir estas duas etapas:\n\n1. Adicionar @ControllerBot como administrador do seu canal.\n2. Em seguida, nos encaminhe qualquer mensagem do seu canal (você também pode nos enviar o @username do canal ou o link do canal).\n\nDigite /cancel para cancelar esta operação.",
     "channels_title_already_busy": "No momento, você não pode adicionar dois canais com o mesmo nome. Digite /feedback para nos informa o que aconteceu ou /cancel para cancelar esta operação.",
     "channels_you_not_creator": "Apenas os criadores tem direito de adicionar um canal no bot. Lembrando, não se esqueça que o criador do canal pode adicionar administradores via /setadmins.\n\nDigite /cancel para cancelar esta operação.",
-    "channels_error_data_when_add": "Link do canal ou @username inválido. Por favor, verifique tudo e tente novamente.\n\nDigite /feedback para nos informar, por algum motivo, o erro continue ocorrendo ou /cancel para cancelar esta operação.",
+    "channels_error_data_when_add": "Link do canal ou @username inválido. Por favor, verifique tudo e tente novamente.\n\nDigite /feedback para nos informar, se por algum motivo, o erro continuar ocorrendo ou /cancel para cancelar esta operação.",
     "send_post_yet": "Use /send_%s para enviar uma ou várias mensagens para este canal.",
     "postpone_post_yet": "Use /postpone_%s para agendar outras mensagens para este canal.",
     "channels_bot_not_admin": "Você não adicionou @ControllerBot como administrador deste grupo."

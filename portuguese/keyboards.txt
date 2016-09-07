@@ -1,85 +1,85 @@
-  utils.bot.setKeyboard('cancel_pt', [['1. Cancel']])
+utils.bot.setKeyboard('cancel_pt', [['1. Cancel']])
 
-  utils.bot.setKeyboard('menu_pt', [
-    ['1. Canais', '2. Auto-Envio']
-    ['3. Enviar', '4. Agendar']
-    ['5. Configurações', '6. Feedback']
-    ['7. Avaliar Bot', '8. Estatísticas']
-  ])
+utils.bot.setKeyboard('menu_pt', [
+  ['1. Canais', '2. Auto-Envio']
+  ['3. Enviar', '4. Agendar']
+  ['5. Configurações', '6. Feedback']
+  ['7. Avaliar Bot', '8. Estatísticas']
+])
 
-  utils.bot.setKeyboard('settings_pt', [
-  #  ['1. Opções de Envio']
-    ['1. Escolher Idioma']
-    ['2. Menu Principal']
-  ])
+utils.bot.setKeyboard('settings_pt', [
+#  ['1. Opções de Envio']
+  ['1. Escolher Idioma']
+  ['2. Menu Principal']
+])
 
-  utils.bot.setKeyboard('language_pt', [
-    ['1. Русский', '2. English']
-    ['3. Português']
-  ])
+utils.bot.setKeyboard('language_pt', [
+  ['1. Русский', '2. English']
+  ['3. Português']
+])
 
-  # Channels
-  utils.bot.setKeyboard('channels_pt', [
-    ['1. Adicionar', '2. Remover']
-    ['3. Funções Administrativas']
-  #  ['3. Opções']
-    ['4. Menu Principal']
-  ])
-  utils.bot.setKeyboard('channel_control_pt', [
-    ['1. Alterar Descrição']
-    ['2. Menu Principal']
-  ])
-  utils.bot.setKeyboard('channel_description_pt', [
-    ['1. Excluir', '2. Visualizar']
-    ['3. Salvar']
-    ['4. Voltar']
-  ])
+# Channels
+utils.bot.setKeyboard('channels_pt', [
+  ['1. Adicionar', '2. Remover']
+  ['3. Funções Administrativas']
+#  ['3. Opções']
+  ['4. Menu Principal']
+])
+utils.bot.setKeyboard('channel_control_pt', [
+  ['1. Alterar Descrição']
+  ['2. Menu Principal']
+])
+utils.bot.setKeyboard('channel_description_pt', [
+  ['1. Excluir', '2. Visualizar']
+  ['3. Salvar']
+  ['4. Voltar']
+])
 
-  utils.bot.setKeyboard('channel_admins_type_pt', [
-    ['1. Adicionar', '2. Remover']
-    ['3. Menu Principal']
-  ])
+utils.bot.setKeyboard('channel_admins_type_pt', [
+  ['1. Adicionar', '2. Remover']
+  ['3. Menu Principal']
+])
 
-  utils.bot.setKeyboard('channel_start_pt', [
-    ['1. Sugerir Mensagem ao canal']
-    ['2. Enviar Mensagem para Admin']
-    ['3. Menu Principal']
-  ])
-  utils.bot.setKeyboard('channel_start_is_anonym_pt', [
-    ['1. Enviar Anonimamente', '2. Enviar citando Nome']
-    ['3. Voltar']
-  ])
-
-
-  utils.bot.setKeyboard('channel_check_pt', [
-    ['1. Verificar']
-  ])
-
-  # Send post
-  utils.bot.setKeyboard('send_options_pt', [
-    ['1. Excluir Todos', '2. Visualizar']
-    ['3. Opções', '4. Enviar']
-    ['5. Cancelar']
-  ])
-  utils.bot.setKeyboard('send_confirm_pt', [
-    ['1. Sim', '2. Não']
-  ])
+utils.bot.setKeyboard('channel_start_pt', [
+  ['1. Sugerir Mensagem ao canal']
+  ['2. Enviar Mensagem para Admin']
+  ['3. Menu Principal']
+])
+utils.bot.setKeyboard('channel_start_is_anonym_pt', [
+  ['1. Enviar Anonimamente', '2. Enviar citando Nome']
+  ['3. Voltar']
+])
 
 
-  utils.bot.setKeyboard('postpone_type_pt', [
-    ['1. Agendar Mensagem']
-    ['2. Painel de Controle']
-  ])
-  utils.bot.setKeyboard('postpone_gtm_confirm_pt', [
-    ['1. Está Correto', '2. Não está Correto']
-  ])
-  utils.bot.setKeyboard('postpone_send_options_pt', [
-    ['1. Excluir Todos', '2. Visualizar']
-    ['3. Opções', '4. Agendados']
-    ['5. Cancelar']
-  ])
-  utils.bot.setKeyboard('postpone_select_date_pt', [
-    ['1. Hoje', '2. Amanhã']
-    ['3. Outra Data']
-    ['4. Voltar']
-  ])
+utils.bot.setKeyboard('channel_check_pt', [
+  ['1. Verificar']
+])
+
+# Send post
+utils.bot.setKeyboard('send_options_pt', [
+  ['1. Excluir Todos', '2. Visualizar']
+  ['3. Opções', '4. Enviar']
+  ['5. Cancelar']
+])
+utils.bot.setKeyboard('send_confirm_pt', [
+  ['1. Sim', '2. Não']
+])
+
+
+utils.bot.setKeyboard('postpone_type_pt', [
+  ['1. Agendar Mensagem']
+  ['2. Painel de Controle']
+])
+utils.bot.setKeyboard('postpone_gtm_confirm_pt', [
+  ['1. Está Correto', '2. Não está Correto']
+])
+utils.bot.setKeyboard('postpone_send_options_pt', [
+  ['1. Excluir Todos', '2. Visualizar']
+  ['3. Opções', '4. Agendados']
+  ['5. Cancelar']
+])
+utils.bot.setKeyboard('postpone_select_date_pt', [
+  ['1. Hoje', '2. Amanhã']
+  ['3. Outra Data']
+  ['4. Voltar']
+])

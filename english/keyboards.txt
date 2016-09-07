@@ -13,9 +13,7 @@ utils.bot.setKeyboard('settings_en', [
   ['1. Change Language']
   ['2. Main Menu']
 ])
-utils.bot.setKeyboard('language_ru', [
-  ['1. Русский', '2. English']
-])
+
 utils.bot.setKeyboard('language_en', [
   ['1. Русский', '2. English']
 ])

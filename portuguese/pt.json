@@ -70,7 +70,7 @@
     "channels_start_anonym_send": "Você desajar enviar estas mensagens anonimamente ao administrador do canal?",
     "postpone_type": "OK, você selecionou %s.O que deseja fazer?\n\nDigite /cancel para ir para menu principal.",
     "postpone_not_created_posts": "Você não tem nenhuma mensagem agendada.",
-    "postpone_posts": "Gerenciador de mensagens agendadas:\n\n`/⁠viewHASH` — view the message.\n`/⁠deleteHASH` — delete the message.\n\n%sType /cancel to cancel the operation.",
+    "postpone_posts": "Gerenciador de mensagens agendadas:\n\n`/⁠viewHASH` — visualizar mensagem.\n`/⁠⁠deleteHASH` — excluir mensagem.\n\n%sDigite /cancel para cancelar esta operação.",
     "postpone_post_deleted": "Feito! A mensagem foi excluída.",
     "send_inline_cancel": "A operação foi cancelada. Envie-me uma ou várias mensagens que deseja publicar. Pode ser qualquer coisa — um texto, uma foto, um vídeo, ou até mesmo um sticker.",
     "send_inline_error": "Ocorreu um erro: Erros encontrados na lista de Links de botões enviados por você:\n\n```\n%s```\n\nPor favor, verifique tudo e tente novamente.",
@@ -108,5 +108,7 @@
     "channels_error_data_when_add": "Link do canal ou @username inválido. Por favor, verifique tudo e tente novamente.\n\nDigite /feedback para nos informar, se por algum motivo, o erro continuar ocorrendo ou /cancel para cancelar esta operação.",
     "send_post_yet": "Use /send_%s para enviar uma ou várias mensagens para este canal.",
     "postpone_post_yet": "Use /postpone_%s para agendar outras mensagens para este canal.",
-    "channels_bot_not_admin": "Você não adicionou @ControllerBot como administrador deste grupo."
+    "channels_bot_not_admin": "Você não adicionou @ControllerBot como administrador deste grupo.",
+    "send_post_sent_other_admin": "%s sent new messages to %s",
+    "postpone_post_sent_other_admin": "%s created new scheduled messages in %s on %s"
 }

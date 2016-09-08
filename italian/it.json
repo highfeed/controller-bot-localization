@@ -108,7 +108,7 @@
     "channels_error_data_when_add": "@Username o identificatore unico invalido. Per favore, controlla e riprova.\n\nScrivi /feedback per farci sapere se per qualche ragione non cambia nulla o /cancel per annullare l'operazione.",
     "send_post_yet": "Usa /send_%s per inviare un altro messaggio a questo canale.",
     "postpone_post_yet": "Usa /postpone_%s per creare un altro messaggio programmato in questo canale.",
-    "channels_bot_not_admin": "Non hai aggiunto @ControllerBot agli admin del gruppo."
+    "channels_bot_not_admin": "Non hai aggiunto @ControllerBot agli admin del gruppo.",
     "send_post_sent_other_admin": "%s ha inviato nuovi messaggi a %s",
     "postpone_post_sent_other_admin": "%s ha creato un nuovo messaggio programmato a %s il %s"
 }

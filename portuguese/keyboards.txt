@@ -75,7 +75,7 @@ utils.bot.setKeyboard('postpone_gtm_confirm_pt', [
 ])
 utils.bot.setKeyboard('postpone_send_options_pt', [
   ['1. Excluir Todos', '2. Visualizar']
-  ['3. Opções', '4. Agendados']
+  ['3. Opções', '4. Agendar']
   ['5. Cancelar']
 ])
 utils.bot.setKeyboard('postpone_select_date_pt', [

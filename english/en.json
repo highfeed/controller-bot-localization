@@ -110,5 +110,5 @@
     "postpone_post_yet": "Use /postpone_%s to create another one scheduled message in this channel.",
     "channels_bot_not_admin": "You didn't add @ControllerBot to admins of a group.",
     "send_post_sent_other_admin": "%s sent new messages to %s",
-    "postpone_post_sent_other_admin": "%s created new scheluded messages to %s on %s"
+    "postpone_post_sent_other_admin": "%s created new scheduled messages in %s on %s"
 }

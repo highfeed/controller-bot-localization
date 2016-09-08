@@ -28,9 +28,10 @@ welcome: |
 
   <b>Admins.</b> You can add admins to help you send new messages and manage schedule messages in your channel.
 
-  Bot can send messages silently and disable link previews for links in messages, as well as supports all message types (text, document, sticker, audio, video, voice note, location and other).
+  Bot can send messages silently and disable previews for links in messages, as well as supports all message types (text, document, sticker, audio, video, voice note, location and other).
 
   <b>How to use?</b>
+
   Send /addchannel and follow the instructions to add a new channel.
 
   Type /feedback to report an issue or contact the devs of this bot.

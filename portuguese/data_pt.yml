@@ -31,6 +31,7 @@ welcome: |
   O Bot pode enviar mensagens de forma silenciosa e desativar pré-visualização de links para links em mensagens, e suportar todos os tipos de mensagens (texto, documentos, sticker, áudio, vídeo, notas de voz, localização e outros).
 
   <b>Como utilizar o bot?</b>
+
   Envie /addchannel e siga as instruções para adicionar um novo canal.
 
   Digite /feedback para relatar um problema, tira dúvidas ou entrar em contato como um dos desenvolvedores deste bot.

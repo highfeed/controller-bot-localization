@@ -28,12 +28,13 @@ welcome: |
 
   <b>Admin.</b> Puoi aggiungere admin che ti aiuteranno a inviare nuovi messaggi e gestire i messaggi programmati nel tuo canale.
 
-  Bot can send messages silently and disable link previews for links in messages, as well as supports all message types (text, document, sticker, audio, video, voice note, location and other).
+  Bot can send messages silently and disable previews for links in messages, as well as supports all message types (text, document, sticker, audio, video, voice note, location and other).
 
   <b>How to use?</b>
+
   Send /addchannel and follow the instructions to add a new channel.
 
-  Type /feedback to report an issue or report an issue or contact the developers of this bot.
+  Type /feedback to report an issue or contact the devs of this bot.
 
   /rate — rate bot
   /help — a list of commands

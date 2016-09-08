@@ -1,32 +1,32 @@
 help: |
-  Bot helps you send formatted messages and create scheduled messages in your channel
+  Il bot ti aiuta ad inviare messaggi formattati e creare messaggi programmati nel tuo canale
 
-  /channels - manage channels
-  /addchannel - add a new channel
-  /deletechannel - delete added channel
-  /setadmins - manage admins
+  /channels - gestisci i canali
+  /addchannel - aggiungi un nuovo canale
+  /deletechannel - elimina canale aggiunto
+  /setadmins - gestisci gli admin
 
-  /send - send a new message
-  /postpone - create scheduled message
+  /send - invia un nuovo messaggio
+  /postpone - crea un nuovo messaggio programmato
 
-  /feedback - contact the devs of this bot
+  /feedback - contatta gli sviluppatori del bot
 
-  /rate - rate bot
-  /help - a list of commands
+  /rate - vota il bot
+  /help - lista di comandi
 
-  /cancel - cancel the current operation
+  /cancel - annulla l'operazione corrente
 welcome: |
-  <b>Hello!</b>
+  <b>Ciao!</b>
 
-  <b>Controller Bot</b> — excellent bot for channel owners that helps you send formatted messages and create scheduled messages in your channel.
+  <b>Controller Bot</b> — bot eccellente per i proprietari di canali che ti aiuta a inviare messaggi formattati e creare messaggi programmati nel tuo canale.
 
-  <b>Formatted Messages.</b> You can use either markdown-style or HTML-style formatting in messages and send them to your channel. Read more about formatting options <a href="https://core.telegram.org/bots/api#formatting-options">here</a>.
+  <b>Messaggi Formattati.</b> Puoi usare il markdown o l'HTML nei messaggi e inviarli ai tuoi canali. Leggi di più sugli stili di formattazione <a href="https://core.telegram.org/bots/api#formatting-options">qui</a>.
 
-  <b>Scheduled Messages.</b> Create an unlimited number of scheduled messages in your channel.
+  <b>Messaggi Programmati.</b> Crea un numero illimitato di messaggi programmati nel tuo canale.
 
-  <b>URL Buttons.</b> Add to any message useful buttons that can open links.
+  <b>Bottoni URL.</b> Aggiungi ad ogni messaggio un'utile lista di bottoni che aprono link.
 
-  <b>Admins.</b> You can add admins to help you send new messages and manage schedule messages in your channel.
+  <b>Admin.</b> Puoi aggiungere admin che ti aiuteranno a inviare nuovi messaggi e gestire i messaggi programmati nel tuo canale.
 
   Bot can send messages silently and disable link previews for links in messages, as well as supports all message types (text, document, sticker, audio, video, voice note, location and other).
 

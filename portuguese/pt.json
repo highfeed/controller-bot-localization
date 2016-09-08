@@ -109,6 +109,6 @@
     "send_post_yet": "Use /send_%s para enviar uma ou várias mensagens para este canal.",
     "postpone_post_yet": "Use /postpone_%s para agendar outras mensagens para este canal.",
     "channels_bot_not_admin": "Você não adicionou @ControllerBot como administrador deste grupo.",
-    "send_post_sent_other_admin": "%s sent new messages to %s",
-    "postpone_post_sent_other_admin": "%s created new scheduled messages in %s on %s"
+    "send_post_sent_other_admin": "%s enviando uma nova mensagem para %s",
+    "postpone_post_sent_other_admin": "%s criar mensagens agendadas de %s em %s"
 }

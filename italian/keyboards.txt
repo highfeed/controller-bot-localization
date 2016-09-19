@@ -3,15 +3,15 @@ utils.bot.setKeyboard('cancel_it', [['1. Annulla']])
 
 utils.bot.setKeyboard('menu_it', [
   ['1. Canali', '2. Auto-Posting']
-  ['3. Invia', '4. Programmati']
+  ['3. Pubblica', '4. Messaggi programmati']
   ['5. Impostazioni', '6. Feedback']
-  ['7. Vota Bot', '8. Statistiche dei canali']
+  ['7. Vota il bot', '8. Statistiche dei canali']
 ])
 
 utils.bot.setKeyboard('settings_it', [
 #  ['1. Opzioni di posting']
   ['1. Cambia lingua']
-  ['2. Menu principale']
+  ['2. Menù principale']
 ])
 utils.bot.setKeyboard('language_ru', [
   ['1. Ðóññêèé', '2. English']
@@ -25,11 +25,11 @@ utils.bot.setKeyboard('channels_it', [
   ['1. Aggiungi', '2. Rimuovi']
   ['3. Gestione degli admin']
 #  ['3. Opzioni']
-  ['4. Menu principale']
+  ['4. Menù principale']
 ])
 utils.bot.setKeyboard('channel_control_it', [
-  ['1. Cambia descrizione']
-  ['2. Menu principale']
+  ['1. Cambia la descrizione']
+  ['2. Menù principale']
 ])
 utils.bot.setKeyboard('channel_description_it', [
   ['1. Cancella', '2. Anteprima']
@@ -39,16 +39,16 @@ utils.bot.setKeyboard('channel_description_it', [
 
 utils.bot.setKeyboard('channel_admins_type_it', [
   ['1. Aggiungi', '2. Rimuovi']
-  ['3. Menu principale']
+  ['3. Menù principale']
 ])
 
 utils.bot.setKeyboard('channel_start_it', [
   ['1. Suggerisci messaggio al canale']
   ['2. Invia messaggio al proprietario']
-  ['3. Menu principale']
+  ['3. Menù principale']
 ])
 utils.bot.setKeyboard('channel_start_is_anonym_it', [
-  ['1. Invia in modo anonimo', '2. Invia a nome mio']
+  ['1. Invia anonimamente', '2. Invia citandomi']
   ['3. Indietro']
 ])
 
@@ -76,12 +76,12 @@ utils.bot.setKeyboard('postpone_gtm_confirm_it', [
   ['1. Giusto', '2. Errato']
 ])
 utils.bot.setKeyboard('postpone_send_options_it', [
-  ['1. Cancella tutto', '2. Anteprima']
-  ['3. Opzioni', '4. In coda']
+  ['1. Cancella', '2. Anteprima']
+  ['3. Opzioni', '4. Metti in coda']
   ['5. Annulla']
 ])
 utils.bot.setKeyboard('postpone_select_date_it', [
   ['1. Oggi', '2. Domani']
-  ['3. Altra data']
+  ['3. Altro giorno']
   ['4. Indietro']
 ])

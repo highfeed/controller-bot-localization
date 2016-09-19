@@ -14,11 +14,11 @@ help: |
   /rate - vota il bot
   /help - lista di comandi
 
-  /cancel - annulla l'operazione corrente
+  /cancel - annulla l'operazione
 welcome: |
   <b>Ciao!</b>
 
-  <b>Controller Bot</b> — bot eccellente per i proprietari di canali che ti aiuta a inviare messaggi formattati e creare messaggi programmati nel tuo canale.
+  <b>Controller Bot</b> — Bot eccellente per i proprietari di canali che ti aiuta a inviare messaggi formattati e creare messaggi programmati nel tuo canale.
 
   <b>Messaggi Formattati.</b> Puoi usare il markdown o l'HTML nei messaggi e inviarli ai tuoi canali. Leggi di più sugli stili di formattazione <a href="https://core.telegram.org/bots/api#formatting-options">qui</a>.
 

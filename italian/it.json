@@ -104,7 +104,7 @@
     "channels_user_added_to_admin_list": "%s è stato promosso admin di %s.",
     "channels_add_new": "Per aggiungere un canale, devi seguire queste due fasi:\n\n1. Aggiungere @ControllerBot agli admin del canale.\n2. Inoltrare al bot ogni messaggio dal tuo canale (puoi anche mandarmi l'@username o l'identificatore unico).\n\nScrivi /cancel per annullare l'operazione.",
     "channels_title_already_busy": "Non puoi aggiungere due canali con lo stesso nome, al momento. Invia /feedback per dirci cos'è successo o /cancel per annullare l'operazione.",
-    "channels_you_not_creator": "Solo il creatore ha il diritto di aggiungere un canale. Nonostante ciò, non dimenticare che il creatore di un canalepuò aggiungere admin tramite /setadmins.\n\nScrivi /cancel per annullare l'operazione.",
+    "channels_you_not_creator": "Solo il creatore ha il diritto di aggiungere un canale. Nonostante ciò, non dimenticare che il creatore di un canale può aggiungere admin tramite /setadmins.\n\nScrivi /cancel per annullare l'operazione.",
     "channels_error_data_when_add": "@Username o identificatore unico invalido. Per favore, controlla e riprova.\n\nScrivi /feedback per farci sapere se per qualche ragione non cambia nulla o /cancel per annullare l'operazione.",
     "send_post_yet": "Usa /send_%s per inviare un altro messaggio su questo canale.",
     "postpone_post_yet": "Usa /postpone_%s per creare un altro messaggio programmato in questo canale.",

@@ -1,0 +1,85 @@
+utils.bot.setKeyboard('cancel_be', [['1. Скасаваць']])
+
+
+utils.bot.setKeyboard('menu_be', [
+  ['1. Каналы', '2. Аўтадопісы']
+  ['3. Адаслаць', '4. Заплянаваныя']
+  ['5. Налады', '6. Водгук']
+  ['7. Ацаніць', '8. Статыстыка']
+])
+
+utils.bot.setKeyboard('settings_be', [
+#  ['1. Налады допісу']
+  ['1. Зьмяніць мову']
+  ['2. Галоўнае мэню']
+])
+
+utils.bot.setKeyboard('language_be', [
+  ['1. Беларуская', '2. English']
+])
+
+# Channels
+utils.bot.setKeyboard('channels_be', [
+  ['1. Дадаць', '2. Выдаліць']
+  ['3. Кіраваньне адмінамі']
+#  ['3. Налады']
+  ['4. Галоўнае мэню']
+])
+utils.bot.setKeyboard('channel_control_be', [
+  ['1. Зьмяніць апісаньне']
+  ['2. Галоўнае мэню']
+])
+utils.bot.setKeyboard('channel_description_be', [
+  ['1. Выдаліць', '2. Праглядзець']
+  ['3. Захаваць']
+  ['4. Назад']
+])
+
+utils.bot.setKeyboard('channel_admins_type_be', [
+  ['1. Дадаць', '2. Выдаліць']
+  ['3. Галоўнае мэню']
+])
+
+utils.bot.setKeyboard('channel_start_be', [
+  ['1. Прапанаваць допіс у канал']
+  ['2. Адаслаць паведамленьне адміну']
+  ['3. Галоўнае мэню']
+])
+utils.bot.setKeyboard('channel_start_is_anonym_be', [
+  ['1. Адаслаць ананімна', '2. Адаслаць ад майго імя']
+  ['3. Назад']
+])
+
+
+utils.bot.setKeyboard('channel_check_be', [
+  ['1. Праверыць']
+])
+
+# Send post
+utils.bot.setKeyboard('send_options_be', [
+  ['1. Выдаліць усё', '2. Праглядзець']
+  ['3. Налады', '4. Напісаць']
+  ['5. Скасаваць']
+])
+utils.bot.setKeyboard('send_confirm_be', [
+  ['1. Так', '2. Не']
+])
+
+
+utils.bot.setKeyboard('postpone_type_be', [
+  ['1. Заплянаваць паведамленьне']
+  ['2. Кіраваньне']
+])
+utils.bot.setKeyboard('postpone_gtm_confirm_be', [
+  ['1. Слушна', '2. Няслушна']
+])
+utils.bot.setKeyboard('postpone_send_options_be', [
+  ['1. Выдаліць усё', '2. Праглядзець']
+  ['3. Налады', '4. Захаваць']
+  ['5. Скасаваць']
+])
+utils.bot.setKeyboard('postpone_select_date_be', [
+  ['1. Сёньня', '2. Заўтра']
+  ['3. Іншая дата']
+  ['4. Назад']
+])
